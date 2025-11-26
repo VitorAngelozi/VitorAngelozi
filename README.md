@@ -18,10 +18,6 @@ Estudante de Tecnologia da Informação na Universidade Federal de Mato Grosso d
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
-### 📊 Status
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorangelozi&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
 #
