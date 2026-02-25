@@ -2,7 +2,11 @@
 
 ## Desenvolvedor FullStack
 
-Estudante de Tecnologia da Informação na Universidade Federal de Mato Grosso do Sul (UFMS), com foco em desenvolvimento de software e infraestrutura de TI. Possuo experiência prática em suporte técnico, manutenção de sistemas e redes, além de conhecimento em desenvolvimento web. Busco uma oportunidade de estágio que permita aplicar habilidades em programação, aprender novas tecnologias e contribuir para o desenvolvimento de soluções eficientes e escaláveis. Tenho perfil colaborativo, senso analítico e interesse constante em aprimorar meus conhecimentos técnicos e profissionais
+Desenvolvedor backend com foco em Java e no ecossistema Spring, especialmente Spring Boot, para construção de APIs REST e aplicações web. Experiência com integração a bancos de dados relacionais utilizando SQL (MySQL e PostgreSQL) e bancos NoSQL como MongoDB.
+
+Conhecimento em modelagem de dados, persistência com JPA/Hibernate, organização em camadas, controle de transações e estruturação de aplicações escaláveis. Familiaridade com versionamento utilizando Git e desenvolvimento orientado a boas práticas de código e arquitetura backend.
+
+Busco oportunidade para atuar no desenvolvimento backend com Java, contribuindo para a construção de sistemas bem estruturados e evoluindo continuamente em tecnologias e padrões do ecossistema.
 
 ### 🧰 Tecnologias
 
