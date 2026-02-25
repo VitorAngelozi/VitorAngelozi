@@ -6,7 +6,7 @@ Estudante de Tecnologia da Informação na Universidade Federal de Mato Grosso d
 
 ### 🧰 Tecnologias
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354380/spring-icon.svg" />
 <img align="left" alt="Golang" width="30px" style="padding-right:10px;" src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/303231/docker-logo.svg" />
