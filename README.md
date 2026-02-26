@@ -26,6 +26,7 @@ Busco oportunidade para atuar no desenvolvimento backend com Java, contribuindo 
 ![Python](https://img.shields.io/badge/python-1572B6?style=for-the-badge&logo=python&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-ED8B00?style=for-the-badge&logo=spring&logoColor=white)
 ![Django](https://img.shields.io/badge/django-1572B6?style=for-the-badge&logo=django&logoColor=white)
+![Hibernate](https://img.shields.io/badge/hibernate-ED8B00?style=for-the-badge&logo=hibernate&logoColor=white)
 
 #### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
