@@ -44,10 +44,10 @@ Busco oportunidade para atuar no desenvolvimento backend com Java, contribuindo 
 
 <p align="center">
   <a href="mailto:vitorangelozi2013@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+
   <a href="https://www.linkedin.com/in/vitorangelozi">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
