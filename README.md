@@ -24,7 +24,7 @@ Busco oportunidade para atuar no desenvolvimento backend com Java, contribuindo 
 #### Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-1572B6?style=for-the-badge&logo=python&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-ED8B00?style=for-the-badge&logo=spring&logoColor=white)
 ![Django](https://img.shields.io/badge/django-1572B6?style=for-the-badge&logo=python&logoColor=white)
 
 #### Databases
