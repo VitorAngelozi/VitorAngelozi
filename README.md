@@ -16,7 +16,6 @@ Busco oportunidade para atuar no desenvolvimento backend com Java, contribuindo 
 ### 💻 TechStack
 
 #### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -44,5 +43,11 @@ Busco oportunidade para atuar no desenvolvimento backend com Java, contribuindo 
 <p align="center"><strong>Connect with Me</strong></p>
 
 <p align="center">
-  <a href="mailto:vitorangelozi2013@gmail.com" style="text-decoration: none;"><img src="public/gmail.png" alt="Email" height="40"/></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/vitorangelozi" style="text-decoration: none;"><img src="public/linkedin.png" alt="LinkedIn" height="40"/></a>
+  <a href="mailto:vitorangelozi2013@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/vitorangelozi">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
