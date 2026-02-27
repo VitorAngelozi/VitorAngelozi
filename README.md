@@ -6,13 +6,6 @@ Conhecimento em modelagem de dados, persistência com JPA/Hibernate, organizaç�
 
 Busco oportunidade para atuar no desenvolvimento backend com Java, contribuindo para a construção de sistemas bem estruturados e evoluindo continuamente em tecnologias e padrões do ecossistema.
 
-
-<p align="center">
-  <a href="https://portfoliomatiasregalo.vercel.app/" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/%20CHECK%20OUT%20MY%20PORTFOLIO%20-083B60?style=for-the-badge&labelColor=083B60" alt="Portfolio">
-  </a>
-</p>
-
 ### 💻 TechStack
 
 #### Frontend
