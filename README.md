@@ -6,8 +6,6 @@ Conhecimento em modelagem de dados, persistência com JPA/Hibernate, organizaç�
 
 Busco oportunidade para atuar no desenvolvimento backend com Java, contribuindo para a construção de sistemas bem estruturados e evoluindo continuamente em tecnologias e padrões do ecossistema.
 
-### 💻 TechStack
-
 #### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
