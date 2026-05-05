@@ -1,7 +1,14 @@
 ## 🚀 Dev Backend
 
-Desenvolvedor web. Experiência com integração a bancos de dados relacionais utilizando SQL (MySQL e PostgreSQL). Conhecimento em versionamento utilizando Git e desenvolvimento orientado a boas práticas de código e arquitetura backend. 
+Desenvolvedor full stack, com experiência em desenvolvimento de sistemas web, incluindo construção e manutenção de APIs e aplicações utilizando JavaScript (React) e Python.
 
+Trabalho com integração entre frontend e backend, testes de funcionalidades, identificação e correção de erros, além de manipulação de dados com PostgreSQL (consultas, atualizações e validações).
+
+Utilizo Git no versionamento e ambiente Linux no dia a dia de desenvolvimento.
+
+Faço uso de ferramentas de IA como apoio para otimizar o desenvolvimento, com foco na validação, entendimento e qualidade do código gerado.
+
+Busco aprofundar conhecimentos em arquitetura de software, debugging e segurança de aplicações.
 #### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
