@@ -1,10 +1,7 @@
 ## 🚀 Dev Backend
 
-Desenvolvedor backend com foco em Java e no ecossistema Spring, especialmente Spring Boot, para construção de APIs REST e aplicações web. Experiência com integração a bancos de dados relacionais utilizando SQL (MySQL e PostgreSQL) e bancos NoSQL como MongoDB. 
+Desenvolvedor web. Experiência com integração a bancos de dados relacionais utilizando SQL (MySQL e PostgreSQL). Conhecimento em versionamento utilizando Git e desenvolvimento orientado a boas práticas de código e arquitetura backend. 
 
-Conhecimento em modelagem de dados, persistência com JPA/Hibernate, organização em camadas, controle de transações e estruturação de aplicações escaláveis. Conhecimento em versionamento utilizando Git e desenvolvimento orientado a boas práticas de códig e arquitetura backend. 
-
-Busco oportunidade para atuar no desenvolvimento backend com Java, contribuindo para a construção de sistemas bem estruturados e evoluindo continuamente em tecnologias e padrões do ecossistema.
 
 #### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
