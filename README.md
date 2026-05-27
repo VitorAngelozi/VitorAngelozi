@@ -35,7 +35,6 @@ Busco aprofundar conhecimentos em arquitetura de software, debugging e seguranç
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
 
 <p align="center"><strong>Connect with Me</strong></p>
-
 <p align="center">
   <a href="mailto:vitorangelozi2013@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
