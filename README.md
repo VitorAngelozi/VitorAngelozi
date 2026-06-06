@@ -11,6 +11,7 @@ Faço uso de ferramentas de IA como apoio para otimizar o desenvolvimento, com f
 Busco aprofundar conhecimentos em arquitetura de software, debugging e segurança de aplicações.
 
 #### Languages
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
