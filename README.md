@@ -8,6 +8,7 @@ Utilizo Git no versionamento e ambiente Linux no dia a dia de desenvolvimento.
 
 Faço uso de ferramentas de IA como apoio para otimizar o desenvolvimento, com foco na validação, entendimento e qualidade do código gerado.
 
+
 Busco aprofundar conhecimentos em arquitetura de software, debugging e segurança de aplicações.
 
 #### Languages
