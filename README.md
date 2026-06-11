@@ -1,6 +1,6 @@
 ## Full Stack Developer
 
-Desenvolvedor full stack com experiência na construção e manutenção de APIs e aplicações web utilizando JavaScript (React) e Python.
+Desenvolvedor full stack com experiência na construção e manutenção de APIs e aplicações web utilizando PHP (Laravel), JavaScript (React) e Python.
 
 Trabalho com integração entre frontend e backend, testes de funcionalidades, identificação e correção de erros, além de manipulação de dados com PostgreSQL (consultas, atualizações e validações).
 
