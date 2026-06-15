@@ -1,31 +1,27 @@
 ## Full Stack Developer
 
-Desenvolvedor full stack com experiência na construção e manutenção de APIs e aplicações web utilizando PHP (Laravel), JavaScript (React) e Python.
+Desenvolvedor full stack com experiência na construção e manutenção de APIs e aplicações web, atuando principalmente com PHP (Laravel), JavaScript (React) e Python.
 
-Trabalho com integração entre frontend e backend, testes de funcionalidades, identificação e correção de erros, além de manipulação de dados com PostgreSQL (consultas, atualizações e validações).
+Trabalho na integração entre frontend e backend, desenvolvimento de funcionalidades, testes, identificação e correção de erros, além de manipulação de dados com PostgreSQL, incluindo consultas, atualizações e validações.
 
-Utilizo Git no versionamento e ambiente Linux no dia a dia de desenvolvimento.
+Tenho vivência com versionamento utilizando Git, ambiente Linux no dia a dia de desenvolvimento e uso de ferramentas como Postman para testes e validação de APIs.
 
-Faço uso de ferramentas de IA como apoio para otimizar o desenvolvimento, com foco na validação, entendimento e qualidade do código gerado.
+Também possuo experiência com desenvolvimento backend em Python utilizando Django e FastAPI.
 
-Busco aprofundar conhecimentos em arquitetura de software, debugging e segurança de aplicações.
+Utilizo ferramentas de IA como apoio para acelerar análises, validar soluções, entender código legado e melhorar a qualidade do código produzido, sempre com foco em revisão, segurança e qualidade.
 
-#### Languages
+Atualmente busco aprofundar conhecimentos em arquitetura de software, debugging, segurança de aplicações e boas práticas no desenvolvimento backend.
+
+#### Main Stack
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
-#### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 #### Backend
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Gin](https://img.shields.io/badge/Gin-008ECF?style=for-the-badge&logo=go&logoColor=white)
 
 #### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -37,6 +33,7 @@ Busco aprofundar conhecimentos em arquitetura de software, debugging e seguranç
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
 
 <p align="center"><strong>Connect with Me</strong></p>
+
 <p align="center">
   <a href="mailto:vitorangelozi2013@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
