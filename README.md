@@ -1,45 +1,43 @@
-## Full Stack Developer
+# Full Stack Developer
 
-Desenvolvedor full stack com experiência na construção e manutenção de APIs e aplicações web, atuando principalmente com PHP (Laravel), JavaScript (React) e Python.
+Desenvolvedor Full Stack com foco em **backend**, **APIs REST** e **aplicações web**.
 
-Trabalho na integração entre frontend e backend, desenvolvimento de funcionalidades, testes, identificação e correção de erros, além de manipulação de dados com PostgreSQL, incluindo consultas, atualizações e validações.
+Trabalho com **PHP/Laravel**, **Go/Gin**, **Python/Django**, **React**, **NestJS**, bancos relacionais e não relacionais, além de ferramentas como **Docker**, **Linux**, **Git** e **Postman**.
 
-Tenho vivência com versionamento utilizando Git, ambiente Linux no dia a dia de desenvolvimento e uso de ferramentas como Postman para testes e validação de APIs.
+---
 
-Também possuo experiência com desenvolvimento backend em Python utilizando Django e FastAPI.
+## Tech Stack
 
-Utilizo ferramentas de IA como apoio para acelerar análises, validar soluções, entender código legado e melhorar a qualidade do código produzido, sempre com foco em revisão, segurança e qualidade.
+### Backend
 
-Atualmente busco aprofundar conhecimentos em arquitetura de software, debugging, segurança de aplicações e boas práticas no desenvolvimento backend.
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-008ECF?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 
-#### Main Stack
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### Frontend
 
-#### Backend
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-#### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### Databases
 
-#### Tools & Environment
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 
-<p align="center"><strong>Connect with Me</strong></p>
+### Tools & Environment
 
-<p align="center">
-  <a href="mailto:vitorangelozi2013@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/vitorangelozi">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+---
+
+## Currently Improving
+
+Atualmente aprofundando conhecimentos em **arquitetura de software**, **debugging**, **segurança de aplicações**, **boas práticas backend**, **performance de APIs** e **IA aplicada ao desenvolvimento**.
