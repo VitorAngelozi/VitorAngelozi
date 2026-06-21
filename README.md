@@ -10,7 +10,6 @@ Trabalho com **PHP/Laravel**, **Go/Gin**, **Python/Django**, **React**, **NestJS
 
 ### Backend
 
-
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
