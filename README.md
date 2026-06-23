@@ -1,4 +1,4 @@
-# Backend Developer | PHP/Laravel & Python
+# Backend Developer
 
 Desenvolvedor com foco em **backend**, **APIs REST** e **aplicações web**, trabalhando principalmente com **PHP/Laravel** e **Python**.
 
