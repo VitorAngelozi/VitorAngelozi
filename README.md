@@ -5,9 +5,7 @@ Desenvolvedor com foco em **backend**, **APIs REST** e **aplicações web**, tra
 Tenho experiência com desenvolvimento de APIs, integração com bancos de dados, autenticação, regras de negócio, testes de endpoints, versionamento com Git e ambiente Linux. Também atuo com tecnologias de apoio como **Django**, **FastAPI**, **React**, **NestJS**, **Docker**, **Postman** e bancos relacionais/não relacionais.
 
 Atualmente estou aprofundando meus conhecimentos em **Laravel**, **arquitetura backend**, **debugging**, **segurança de aplicações**, **boas práticas de API** e **IA aplicada ao desenvolvimento**.
-
 ---
-
 ### Backend
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
