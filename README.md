@@ -6,6 +6,7 @@ Tenho experiência com desenvolvimento de APIs, integração com bancos de dados
 
 Atualmente estou aprofundando meus conhecimentos em **Laravel**, **arquitetura backend**, **debugging**, **segurança de aplicações**, **boas práticas de API** e **IA aplicada ao desenvolvimento**.
 
+
 ---
 ### Backend
 
