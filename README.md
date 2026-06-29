@@ -7,7 +7,6 @@ Tenho experiência com desenvolvimento de APIs, integração com bancos de dados
 Atualmente estou aprofundando meus conhecimentos em **Laravel**, **arquitetura backend**, **debugging**, **segurança de aplicações**, **boas práticas de API** e **IA aplicada ao desenvolvimento**.
 
 ---
-
 ### Backend
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
