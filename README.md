@@ -1,18 +1,11 @@
-# Vitor Angelozi
+# Vitor Silva
 
-Desenvolvedor **Full Stack** com foco em **Laravel**, **APIs REST** e **aplicações web**.
+Full Stack Developer focused on **Laravel**, **REST APIs** and **backend development**.
 
-Atuo no desenvolvimento de sistemas web, construção de APIs, integração com bancos de dados, autenticação, regras de negócio e manutenção de aplicações em ambiente Linux.
+Building web applications with **PHP/Laravel**, SQL databases and modern development tools.
 
-Meu foco principal atualmente é evoluir com **PHP/Laravel**, arquitetura backend, boas práticas de API, debugging, segurança de aplicações e uso de IA aplicada ao desenvolvimento.
-
-## Tech Stack
+## Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=laravel,php,mysql,postgres,python,js,react,docker,linux,git" />
 </p>
-
-## Main Focus
-
-```txt
-Laravel · PHP · APIs REST · Backend Architecture · SQL · Linux
