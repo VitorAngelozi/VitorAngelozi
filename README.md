@@ -1,4 +1,4 @@
-# Vitor Silva
+# Vitor Angelozi
 
 Full Stack Developer focused on **Laravel**, **REST APIs** and **backend development**.
 
