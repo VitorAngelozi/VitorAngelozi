@@ -10,4 +10,5 @@ Building web applications with **PHP/Laravel**, SQL databases and modern develop
   <img src="https://skillicons.dev/icons?i=laravel,php,mysql,postgres,python,js,react,docker,linux,git" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aceld&row=1&column=7)](https://github.com/VitorAngelozi)
+<img align="center" height="140px" style="float: left" src="https://github-readme-stats-xcanwin.vercel.app/api?username=VitorAngelozi&show_icons=true&theme=algolia&hide=contribs,prs" alt="Aceld's github stats" /> 
+<img align="center" height="140px" style="float: left" src="https://github-readme-stats-xcanwin.vercel.app/api/top-langs/?username=VitorAngelozi&layout=compact&theme=algolia" />
