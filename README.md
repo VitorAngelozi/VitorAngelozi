@@ -1,6 +1,6 @@
 # Vitor Angelozi
 
-Full Stack Developer focused on **Laravel**, **REST APIs** and **backend development**.
+Full Stack Dev
 
 Building web applications with **PHP/Laravel**, SQL databases and modern development tools.
 
