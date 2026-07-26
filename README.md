@@ -6,7 +6,6 @@ Building web applications with **PHP/Laravel**, **Go/Gin**, SQL databases and mo
 
 ## Stack
 
-
 <p>
   <img src="https://skillicons.dev/icons?i=go,laravel,php,mysql,postgres,python,js,react,docker,linux,git" />
 </p>
