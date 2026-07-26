@@ -3,7 +3,6 @@
 Full Stack Dev
 
 Building web applications with **PHP/Laravel**, **Go/Gin**, SQL databases and modern development tools.
-
 ## Stack
 
 <p>
