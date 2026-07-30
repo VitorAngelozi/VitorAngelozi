@@ -2,7 +2,7 @@
 
 Full Stack Dev
 
-Building web applications with **PHP/Laravel**, **Ruby on Rails**, **Go/Gin**, SQL databases and modern development tools.
+Building web applications with **PHP/Laravel**, **Ruby on Rails**, **Go**, SQL databases and modern development tools.
 
 ## Stack
 
