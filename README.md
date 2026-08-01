@@ -2,7 +2,7 @@
 
 Backend Developer
 
-Building backend applications and APIs with **Ruby on Rails**, **PHP/Laravel** and **Go**, focused on databases, Linux environments, Docker and scalable systems.
+Building APIs and backend applications with **Ruby on Rails**, **PHP/Laravel** and **Go**, working with relational databases, Docker, Linux and modern development practices.
 
 ## Backend Stack
 
