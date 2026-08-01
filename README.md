@@ -1,11 +1,11 @@
 # Vitor Angelozi
 
-Full Stack Dev
+Backend Developer
 
-Building web applications with **PHP/Laravel**, **Ruby on Rails**, **Go**, SQL databases and modern development tools.
+Building backend applications and APIs with **PHP/Laravel**, **Ruby on Rails** and **Go**, focused on databases, Linux environments, Docker and scalable systems.
 
-## Stack
+## Backend Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=go,ruby,rails,laravel,php,mysql,postgres,python,js,react,docker,linux,git" />
+  <img src="https://skillicons.dev/icons?i=go,ruby,rails,laravel,php,postgres,mysql,docker,linux,git" />
 </p>
