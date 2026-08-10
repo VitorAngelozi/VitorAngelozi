@@ -1,7 +1,5 @@
 # Vitor Angelozi
 
-
-
 Backend Developer
 
 Building APIs and backend applications with **Ruby on Rails**, **PHP/Laravel** and **Go**, working with relational databases, Docker, Linux and modern development practices.
