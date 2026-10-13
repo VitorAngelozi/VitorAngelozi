@@ -6,5 +6,5 @@ Building web applications with **Python/Django**, **PHP/Laravel** and **Go**, wo
 ## Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,go,postgres,mysql,docker,linux,git" />
+  <img src="https://skillicons.dev/icons?i=python,php,laravel,go,postgres,mysql,docker,linux,git" />
 </p>
