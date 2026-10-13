@@ -2,7 +2,7 @@
 
 Dev
 
-Building web applications with **PHP/Laravel** and **Go**, working with relational databases, Docker, Linux and modern development practices.
+Building web applications with **Python/Django**, **PHP/Laravel** and **Go**, working with relational databases, Docker, Linux and modern development practices.
 ## Stack
 
 <p>
